@@ -3,10 +3,11 @@ Welcome to the Vac book! This acts as a knowledge base for https://vac.dev/.
 
 This replaces the somewhat-outdated Vac overview here: https://hackmd.io/@vac/main/
 
-## About
+## Organization
 
-- **topics** - Notes on various topics.
-- **scratch** - Temporary, throw-away stuff.
+- **topics** - Notes on various topics; atemporal.
+- **scratch** - Misc scratchpad, temporary; throw-away stuff.
+- **plan** - plans for yearly/quarterly etc goals; temporal.
 
 ## Contribute
 
