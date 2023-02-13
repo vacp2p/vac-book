@@ -80,9 +80,11 @@ Adversarial models we consider are listed in [45/WAKU2-ADVERSARIAL-MODELS](https
 
 [*Conversational Security Roadmap*](https://github.com/vacp2p/research/issues/169)
 
-### RLN
+### RLNP2P
 
-We plan to move the RLN track into a dedicated project: [rlnp2p.vac.dev](https://rlnp2p.vac.dev/)
+[*RLNP2P Roadmap](https://github.com/vacp2p/research/issues/179)
+
+See intro here: [rlnp2p.vac.dev](https://rlnp2p.vac.dev/)
 
 The *protocol incentivization* track uses results from *rlnp2p*.
 
