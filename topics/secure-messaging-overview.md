@@ -82,7 +82,7 @@ Adversarial models we consider are listed in [45/WAKU2-ADVERSARIAL-MODELS](https
 
 ### RLNP2P
 
-[*RLNP2P Roadmap](https://github.com/vacp2p/research/issues/179)
+[*RLNP2P Roadmap*](https://github.com/vacp2p/research/issues/179)
 
 See intro here: [rlnp2p.vac.dev](https://rlnp2p.vac.dev/)
 
