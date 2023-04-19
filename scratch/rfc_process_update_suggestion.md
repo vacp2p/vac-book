@@ -16,8 +16,10 @@ Every team can publish raw RFCs, with reviewers from their respective team or ot
 Raw RFCs can be published without any formal process.
 This allows all teams to publish specs without being blocked.
 
-Promoting RFCs from raw to draft, as well as updating draft RFCs SHOULD involve Vac.
-Promoting RFCs from draft to stable MUST involve Vac.
+It is RECOMMENDED to involve Vac for promoting RFCs from raw to draft, as well as updating draft RFCs.
+Promoting RFCs from draft to stable SHOULD involve Vac.
+Involving Vac in the process will add the `vac` tag to the RFC.
+
 Vac would check various aspects of RFCs before promoting:
 
 * spec parlance?
